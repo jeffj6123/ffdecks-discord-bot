@@ -1,0 +1,3 @@
+PREFIX = "--"
+
+TOKEN = 'NDQ1NjIzNTMyNzE4NjUzNDUw.DdtK3g.XAbAeyHAl6wyVx2SNWIzp6Psx6I'
